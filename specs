@@ -1,0 +1,7 @@
+#!/bin/bash
+while :
+do
+	clear
+    runhaskell Specs.hs
+	sleep 2
+done
